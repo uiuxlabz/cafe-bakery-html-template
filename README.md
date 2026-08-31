@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for artisan bakeries and cafes. The design features a warm caramel + cream palette, elegant serif headings, and an inviting, handcrafted atmosphere that communicates quality and care.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
